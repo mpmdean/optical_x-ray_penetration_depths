@@ -1,0 +1,13 @@
+name: python-xrayutiltiies
+
+channels:
+  - defaults
+
+dependencies:
+  - python
+  - sympy
+  - numpy
+  - matplotlib
+
+  - pip:
+    - xrayutilities
